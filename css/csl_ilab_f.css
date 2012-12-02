@@ -1,0 +1,418 @@
+body  {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	//color: #444444;
+	color:#666;
+	border-bottom-width: thin;
+	border-bottom-style: none;
+	/*background-color: #33CCFF; */
+	background-color: #FFFFFF;
+	top: 0px;
+	list-style-type: disc;
+}
+
+body 
+{	margin:0;
+	padding:0;
+}
+
+p         {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 0;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+h3        {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-top: 4px;
+	margin-bottom: 10px;
+}
+h2        {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-top: 18px;
+	margin-bottom: 10px;
+}
+h1        {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 18px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+a, 
+a:link, 
+a:visited, 
+a:hover,
+a:active 
+{		
+	color:Black;	
+	text-decoration:none; 
+}
+
+a:hover 
+{
+	background-color: yellow;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+img       
+{
+	border-color: #FFFFFF;
+	border: 0;
+	border-top-style: none;
+}
+
+
+
+/*
+.content_base {margin-top: 9px; margin-left: 30px; margin-right: 30px;}
+*/
+
+/* document major parts */
+
+/* this is wrapper */
+#everything
+{
+	background-color: #FFFFFF;
+	padding-right:10px;
+	padding-top:10px;
+	width: 760px;
+}
+
+#red_line
+{
+	/*background-color: #FF0000; red*/
+	background-color: red;
+	margin-bottom:10px;
+	height:10px;
+}
+
+#green_line
+{
+	background-color: #88FFD9;
+	margin-bottom:12px;
+	margin-top:23px;
+	height:10px;
+}
+
+#sidebar_border_f  {
+	background-color: #66FFFF;
+
+	width:200px;
+	float: left;
+	position: relative;
+	padding-left:40px;
+	padding-right: 40px; 
+	padding-top:40px;
+	padding-bottom: 20px;
+}
+
+#sidebar_menu  {
+	width:200px;
+	float: left;
+	position: relative;
+	z-index: 0;
+	background-color: #66FFFF;
+	padding-right: 40px;
+	padding-left:40px;
+	padding-bottom: 35px;
+}
+
+#pageindx {
+	width:210px;
+	float: left;
+	position: relative;
+	background-color: #FFFFFF;
+	margin-top: 40px;
+	padding-left:40px;
+}
+
+#pageindx_color {
+	width:210px;
+	float: left;
+	position: relative;
+	padding-left:40px;
+}
+
+#tile_yellow {
+	width: 280px;
+	float: left;
+	position: relative;
+	background-color: #FFFF99;
+	margin-top: 25px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#tile_gray {
+	width: 280px;
+	float: left;
+	position: relative;
+	background-color: #CCCCCC;
+	margin-top: 25px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#tile_magenta {
+	width: 280px;
+	float: left;
+	position: relative;
+	background-color: #9999FF;
+	margin-top: 25px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#pageindx a:link, 
+#pageindx a:visited, 
+#pageindx a:active 
+{		
+	/*text-decoration: underline;*/
+}
+
+#pageindx a:hover
+{		
+	text-decoration: none;
+}
+
+
+#highlights {
+	width:200px;
+	float: left;
+	position: relative;
+	background-color: #FFFFFF;
+	margin-top: 40px;
+	margin-left:40px;
+}
+
+#highlights a:link, 
+#highlights a:visited, 
+#highlights a:active 
+{		
+	text-decoration: underline;
+}
+
+#highlights a:hover
+{
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#content_f  {
+	width: 450px;
+	z-index:0;
+	float:right;
+}
+
+#sidebar_news2  {
+	width:450px;
+	float: right;
+	background-color: #88FFD9;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin-top: 5px;
+}
+
+#sidebar_news_in
+{
+	padding-left:40px;
+	padding-right: 40px; 
+}
+
+
+
+/* reference style for publications */
+p.reference {
+	margin-left: 20px;
+	text-indent:-20px;
+	padding-left: 30px;
+}
+
+p.datelist {
+	margin-left: 70px;
+	text-indent:-70px;
+	padding-left: 0px;
+}
+
+p.indented {
+	padding-left: 40px;
+}
+
+p.highl {
+	font-size: 9px;
+	line-height: 14px;
+}
+
+p.highl_new {
+	font-size: 9px;
+	margin-top: -8px;
+	line-height: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+p.highl_img {
+	margin-top:32px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+p.indexpage {
+	margin-bottom: 4px;
+	}
+
+
+
+/* --------------------- this are styles for the project pages 
+*/
+
+#green_linep
+{
+	background-color: #88FFD9;
+	margin-bottom:0px;
+	margin-top:17px;
+	height:10px;
+}
+
+#thumbn1 
+{
+	float:right;
+	position:relative;
+	padding-left: 5px;
+	padding-bottom: 5px;
+}
+
+#thumbn1 a:link img, #thumbn1 a:visited img, #thumbn1 a:active img
+{
+	border:1px solid gray;
+}
+
+#thumbn1 a:hover 
+{
+	background-color: transparent;
+}
+
+#thumbn1 a:hover img 
+{
+	filter:alpha(opacity=70);
+    -moz-opacity:0.7;    
+	opacity: 0.7;
+	border:1px solid black;
+}
+
+#thumbn-strip 
+{
+	//margin-top:-10px;
+	margin-bottom:-5px;
+
+	//border:1px solid gray;
+}
+
+#thumbn-strip a:link img, #thumbn1 a:visited img, #thumbn1 a:active img
+{
+	//border:1px solid gray;
+}
+
+#thumbn-strip a:hover 
+{
+	background-color: transparent;
+}
+
+#thumbn-strip a:hover img 
+{
+	filter:alpha(opacity=80);
+    -moz-opacity:0.8;    
+	opacity: 0.8;
+	//border:1px solid black;
+}
+
+
+#hl_image
+{
+	float:left;
+	position:relative;
+	padding-bottom: 5px;
+}
+
+#hl_image a:link img, #hl_image a:visited img, #hl_image a:active img
+{
+	border:1px solid gray;
+}
+
+#hl_image a:hover 
+{
+	background-color: transparent;
+}
+
+#hl_image a:hover img 
+{
+	filter:alpha(opacity=70);
+    -moz-opacity:0.7;    
+	opacity: 0.7;
+	border:1px solid black;
+}
+
+#pjimage {
+	font-size: 9px;
+	text-align: right;
+	padding-bottom: 10px;
+	padding-top: 15px;
+}
+
+
+#pjimagecap {
+	padding-left: 40px;
+	font-size: 9px;
+	text-align: right;
+	padding-top: 2px;
+	padding-bottom: 15px;
+	line-height: 12px;
+}
+
+#pjimagecap_last {
+	padding-left: 40px;
+	font-size: 9px;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 5px;
+	line-height: 12px;
+}
+
+
+#pjimagecap-new {
+	font-size: 10px;
+	text-align: center;
+	padding-top: 6px;
+	padding-bottom: 12px;
+	line-height: 12px;
+}
+
+#pjimagecap-new-last {
+	font-size: 10px;
+	text-align: center;
+	padding-top: 6px;
+	line-height: 12px;
+}

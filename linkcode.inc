@@ -1,0 +1,2 @@
+<p><a href="" ><img src="images/frontpage/megummicarsten.jpg" width="450" height="668" alt="Ivan Poupyrev" border="0"></a></p>
+<p><a href="" ><img src="images/frontpage/ipoupyrevweb.jpg" width="450" height="668" alt="Ivan Poupyrev, Gummi, Carsten" border="0"></a></p>

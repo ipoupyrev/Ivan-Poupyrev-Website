@@ -1,0 +1,1 @@
+<a href="" ><img src="../images/publications/uist.jpg" width="450" height="338" alt="UIST" border="0"></a><div id="pjimagecap"><div align="right">Presenting TeslaTouch project at UIST 2010 conference.</div></div>
