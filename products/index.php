@@ -49,8 +49,8 @@ pageTracker._trackPageview();
 <a href="psvita.php"><img src="psvita/psvista_bar.jpg"></a>
 </div>
 
-<h2><a href="psvita.php">Sony PlayStation Vita.</a></h2>
-<p>Sony PlayStation Vita handheld gaming console is equipped with multi touch input panel on the back which allows gamers to interact with games while holding the device without occluding the screen. Backtouch interaction was invented and prototyped by me and my colleagues in<a href="../projects/gummi.php"> Gummi project</a> at Sony Computer Science Labs in Tokyo [<a href="psvita.php"><strong>more details...</strong></a>].</p>
+<h2><a href="psvita.php">Backtouch on Sony PlayStation Vita.</a></h2>
+<p>Sony PlayStation Vita handheld gaming console is equipped with the  touch panel on the back of the device. Backtouch interaction was invented and prototyped by me and my colleagues as part of <a href="../projects/gummi.php"> Gummi project</a> at Sony CSL. It allows gamers to interact with games and on-screen content while hoding the device with both hand.  [<a href="psvita.php"><strong>more details...</strong></a>].</p>
 
 
 <div id="green_linep"><a name="navitus" id="navitus"></a>
@@ -60,7 +60,7 @@ pageTracker._trackPageview();
 <a href="cedar.php"><img src="cedar/cedar_bar3.jpg"></a>
 </div>
 
-<h2><a href="cedar.php">Sony Ericsson Cedar Mobile Phone.</a></h2>
+<h2><a href="cedar.php">12 Pixels on Cedar Mobile Phone.</a></h2>
 <p>Sony Ericsson Cedar mobile phone was released on the market with pre-installed application that allowed to draw and share pixel art images just by tapping on 12 keys of the phone keypad. The application was called <a href="../projects/12Pixels.php">12Pixels</a> and it was invented and developed by me and <a href="http://www.karlddwillis.com/">Karl Wilis</a> at Sony Computer Science La bot a rat ires in Tokyo [<a href="cedar.php"><strong>more details...</strong></a>].</p>
 
 
@@ -81,7 +81,7 @@ pageTracker._trackPageview();
 <a href="navitus.php"><img src="navitus/navitus_bar.jpg"></a>
 </div>
 
-<h2><a href="navitus.php">Sony Navitus RM-NX7000 Remote Controller.</a></h2>
+<h2><a href="navitus.php">TouchEngine on Navitus Remote Controller.</a></h2>
 <p>Sony <a href="http://bssc.sel.sony.com/Professional/navitus/index.html">Navitus RM-NX7000</a> multi-functional remote controller was equipped with a  tactile feedback on its touch screen. The tactile feedback was developed by me and my colleagues as part of <a href="../projects/tactile.php">TouchEngine</a> project. Navitus, released on market in 2004, was the world-first consumer electronic device featuring touch screen with tactile feedback [<a href="navitus.php"><strong>more details...</strong></a>].</p>
 
 <div id="green_linep"><a name="UCP" id="UCP	"></a>
@@ -91,7 +91,7 @@ pageTracker._trackPageview();
 <a href="UCP8060.php"><img src="BNC/bnc_bar2.jpg"></a>
 </div>
 
-<h2><a href="UCP8060.php">Sony UCP-8060 Universal Control Panel.</a></h2>
+<h2><a href="UCP8060.php">TouchEngine on UCP-8060 Universal Control Panel.</a></h2>
 <p>Sony UCP-8060 Universal Control Panel was equipped with touch screen enhanced with tactile feedback developed by me and colleagues as part of TouchEngine project. Sony UCP-8060 was a part in the lineup of professional broadcasting equipment produced by Sony. Released in 2002 was the  first commercial product in the world with for touch screen tactile feedback  <a href="UCP8060.php">[<strong>more details...</strong></a></a>].</p>
 
 <div id="green_linep"><a name="te" id="te	"></a>
