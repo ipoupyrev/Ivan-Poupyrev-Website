@@ -37,11 +37,7 @@ pageTracker._trackPageview();
 
 <div id="content_f">
 	<img src="product.jpg" width="450" height="338">
-	<div id="pjimagecap">
-  	<div align="right">
-  	<a href="../projects/12Pixels.php">12Pixels</a> was released by <a href="http://www.jp.sonystyle.com/">Sony Style Japan</a> as a free service in 2009.
-  	</div>
-</div>
+	
 	<h2>Products.</h2>
 
 <p>I was able to take some of my research  projects into    products that were released on the international market and used by consumers all over the world. I have always  believed that turning research ideas into real products used by everyday people  is an ultimate impact that a researcher can make. </p>

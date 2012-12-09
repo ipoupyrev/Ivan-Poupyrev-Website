@@ -56,36 +56,32 @@ pageTracker._trackPageview();
 </p>
 <div id="green_line"><a name="about" id="about"></a></div>
 
-<p>Under development.
-
-<!--
-
 <h2 align="left">About the product.</h2>
-<p>Sony Ericsson included <a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> as a standard feature  of <a href="http://www.sonymobile.com/gb/support/phones/cedar/">Cedar</a>&trade; mobile phone, an affordable candy bar-shaped GSM phone released word wide in November 2010.  <a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> is an interface and an application which allows users to draw and share <a href="http://ipoupyrev.files.wordpress.com/2010/03/12pixels-mosaic-large.png">sophisticated pixel art drawings</a> using just twelve keys of a standard mobile phone.</p>
-<p>The video  below was filmed by independent reviewer and it demonstrates <a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixes</a> on Cedar&trade; along with other phone features.<br>
+<p>Sony PlayStation Vita handheld gaming console is equipped with multi touch input panel on the back which allows gamers to interact with games while holding the device without occluding the screen. Backtouch interaction was invented and prototyped by me and my colleagues in<a href="../projects/gummi.php"> Gummi project</a> at Sony Computer Science Labs in Tokyo</p>
+<p>The video  below demonstrates the use of rear touchpad, this is the best back touch interaction video that I could find.<br>
   <br>
 </p>
-<iframe width="450" height="253" src="http://www.youtube.com/embed/S02o11FHTE4#t=5m45s" frameborder="0" allowfullscreen></iframe>
+<iframe width="450" height="253" src="http://www.youtube.com/embed/IQpOa0C_45I" frameborder="0" allowfullscreen></iframe>
 
 <div id="green_line"><a name="pict" id="pict"></a></div>
 
 <h2>Features and pictures.<br>
   <br>
 </h2>
-<p><a href="cedar/cedar-views-1.jpg"><img src="cedar/cedar-views-1s.jpg" width="450" height="311"></a></p>
+<p><a href="psvita/PS-Vita-Japan-charts.jpg"><img src="psvita/PS-Vita-450.jpg" width="450" height="279"></a></p>
 <div id="pjimagecap-new">
   <p>Cedar was an affordable yet surpirsingly sophisticated mobile phone. In addition to <a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> it provided web access, 3G modem, nice color screen, camera and Facebook integration.</p>
 <p><br>
 </p>
 </div>
-<a href="cedar/cedar-large.jpg"><img src="cedar/cedar.jpg" width="450" height="338"></a>
+<a href="psvita/playstation_vita_back.jpg"><img src="psvita/playstation_vita_back_450.jpg" width="450" height="330"></a>
 <div id="pjimagecap-new">
 <p><a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> was included on Cedar as a pre-installed applications and it was one of the differentiating features of the phone. This is a Cedar web page with <a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> logo on the bottom of the page.</p>
 </div>
-<a href="cedar/cedar-views-2.jpg"><img src="cedar/cedar-views-2s.jpg"></a>
+<a href="psvita/ps-vita-back-touch.jpg"><img src="psvita/ps-vita-back-touch-450.jpg"></a>
 <div id="pjimagecap-new"> Cedar was developed according to Sony Ericsson GreenHeart&trade; initiative, which included several ecology-friednly features such as recycled  plastic, energy efficiency, electronic manual and some others.</div>
 
-<div align="center"><a href="../projects/touche/Touche-DRP-Gestures-Large.jpg"><img src="cedar/cedar-12pixel-text.jpg" width="237" height="285"></a>
+<div align="center"><a href="psvita/Playstation-Vita.jpeg"><img src="psvita/Playstation-Vita-450.jpg" width="450" height="279"></a>
 </div>
 <div id="pjimagecap-new-last">
   <p>12Pixels was a popular application on Cedar. I  recieved quite a few e-mails from customers asking when the next version would be released.</p></div>
@@ -98,8 +94,6 @@ pageTracker._trackPageview();
 <div id="green_line"><a name="credits" id="credits"></a></div>
 <h2>Team and Credits.</h2>
 <p><a href="http://www.karlddwillis.com/">Karl Willis</a> and myself developed 12Pixels application with Karl writing most of the Java code that went into the actual phone application. Tetsu Natsume was working with Sony Ericsson mobile phone software divisions to adapt and release 12Pixels on the Cedar phone.</p>
-
--->
 
 <div id="green_line"></div>
 
@@ -117,12 +111,11 @@ include "../aboutme.html";
 include "../menu.html";
 ?>
 
-<!--
+
 <div id="tile_magenta">
 <div align="center"><span id="white-font">US Patent</span> <a href="http://www.google.com/patents/US8035619">8,035,619</a>
 </div>
 </div>
--->
 
 </div>
 </div>
