@@ -57,8 +57,8 @@ pageTracker._trackPageview();
 <div id="green_line"><a name="about" id="about"></a></div>
 
 <h2 align="left">About the product.</h2>
-<p>Sony PlayStation Vita handheld gaming console is equipped with multi touch input panel on the back which allows gamers to interact with games while holding the device without occluding the screen. Backtouch interaction was invented and prototyped by me and my colleagues in<a href="../projects/gummi.php"> Gummi project</a> at Sony Computer Science Labs in Tokyo</p>
-<p>The video  below demonstrates the use of rear touchpad, this is the best back touch interaction video that I could find.<br>
+<p>Sony PlayStation Vita handheld gaming console is equipped with the  touch panel located on the <em>back</em> of the device. Backtouch interaction was invented and prototyped by me and my colleagues at Sony Computer Science Laboratory and Sony Design Center as a part of <a href="../projects/gummi.php"> Gummi project</a>. Placing touch panel on the back of the device allows gamers to interact with games while firmly hoding the device with both hands. It allows to effectively manipulate on-screen content without occluding the screen as it is the case with traditional touch screen interaction.</p>
+<p>The video  below demonstrates the use of rear touchpad, this is the best  video that I could find.<br>
   <br>
 </p>
 <iframe width="450" height="253" src="http://www.youtube.com/embed/IQpOa0C_45I" frameborder="0" allowfullscreen></iframe>
@@ -70,21 +70,20 @@ pageTracker._trackPageview();
 </h2>
 <p><a href="psvita/PS-Vita-Japan-charts.jpg"><img src="psvita/PS-Vita-450.jpg" width="450" height="279"></a></p>
 <div id="pjimagecap-new">
-  <p>Cedar was an affordable yet surpirsingly sophisticated mobile phone. In addition to <a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> it provided web access, 3G modem, nice color screen, camera and Facebook integration.</p>
-<p><br>
-</p>
+  <p>Sony PlayStation Vita is a handheld gaming console, which is equiped with two joysticks and touch screen on front of the device.</p>
 </div>
 <a href="psvita/playstation_vita_back.jpg"><img src="psvita/playstation_vita_back_450.jpg" width="450" height="330"></a>
 <div id="pjimagecap-new">
-<p><a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> was included on Cedar as a pre-installed applications and it was one of the differentiating features of the phone. This is a Cedar web page with <a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> logo on the bottom of the page.</p>
+<p>It is also equiped with multitouch pad located on the back of the device.</p>
 </div>
 <a href="psvita/ps-vita-back-touch.jpg"><img src="psvita/ps-vita-back-touch-450.jpg"></a>
-<div id="pjimagecap-new"> Cedar was developed according to Sony Ericsson GreenHeart&trade; initiative, which included several ecology-friednly features such as recycled  plastic, energy efficiency, electronic manual and some others.</div>
+<div id="pjimagecap-new">The rear touch input allows gamers to hold the device in both hand while interacting with games and on-screen content .</div>
 
 <div align="center"><a href="psvita/Playstation-Vita.jpeg"><img src="psvita/Playstation-Vita-450.jpg" width="450" height="279"></a>
 </div>
 <div id="pjimagecap-new-last">
-  <p>12Pixels was a popular application on Cedar. I  recieved quite a few e-mails from customers asking when the next version would be released.</p></div>
+  <p>At the same time it allows to use two small joystics located on both sides 
+    of the gaming console.</p></div>
 <div id="green_line"><a name="state" id="state"></a></div>
 <h2>History and the current state.</h2>
 <p><a href="http://www.ivanpoupyrev.com/projects/12Pixels.php">12Pixels</a> was developed  at <a href="http://www.sonycsl.co.jp/en/">Sony CSL</a> by Karl Willis and myself  in  2007 - 2008. At that time all phone interaction, particularly in Japan, was based only on key presses. Smart phones were nonexistent and he touch screen interaction was virtually unknown. Sony Ericsson was  one of the major manufacturers of mobile phones that were popular in Europe, Asia and Middle East, i.e. in countries with GSM network.</p>
